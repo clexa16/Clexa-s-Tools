@@ -22,4 +22,4 @@ Contact
 
 Location: Mersin, Turkey
 
-GitHub: https://github.com/clexa16github
+GitHub: https://github.com/clexa16
